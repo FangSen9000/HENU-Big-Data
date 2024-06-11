@@ -1,0 +1,13 @@
+1. 教材第一章，Big Data Fundamentals: Concepts, Drivers & Techniques
+
+2. 什么是AWS？_Amazon Web Services亚马逊云计算服务-AWS云服务 https://aws.amazon.com/cn/what-is-aws/
+
+3. 什么是大数据_大数据工作原理_AWS大数据平台 - AWS云服务 https://aws.amazon.com/cn/big-data/what-is-big-data/
+
+4. 云基础设施和平台服务魔力象限 https://www.gartner.com/technology/media-products/reprints/AWS/1-271W1OL4-SCH.html
+
+5. AWS云服务全球基础设施_高可用性云服务基础设施-AWS云服务 https://aws.amazon.com/cn/about-aws/global-infrastructure/?pg=WIAWS
+
+6. （AWS training - Data Analytics Fundamentals）DAF Lesson1-Introduction to data analysis solutions https://www.aws.training/Details/eLearning?id=35364
+
+7. SELECT Command - Amazon Simple Storage Service https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-glacier-select-sql-reference-select.html
